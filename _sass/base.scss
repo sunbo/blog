@@ -1,5 +1,5 @@
 /*
-   original: https://github.com/pages-themes/hacker 
+   original: https://github.com/pages-themes/hacker
 */
 
 @import "rouge-base16-dark";
@@ -65,7 +65,7 @@ header {
 }
 
 header h1 {
-  font-size: 24px;
+  font-size: 36px;
   line-height: 1.5;
   margin: 0;
   text-align: center;
@@ -270,4 +270,10 @@ a:active, a:focus {
 
 #wrapper {
   min-height: calc(100vh - 100px);
+}
+
+.footer-links h2 {
+    font-size: 18px;
+    font-weight: 300;
+    color: #666;
 }
