@@ -3,14 +3,14 @@ description: "A Jekyll Blog For SunBo"
 author:
   name: "SunBo"
   email: "yueyuegigi21@gmail.com"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  url: "https://sunbo.github.io/"
 
 baseurl: /
 
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 3
+paginate: 5
 paginate_path: /page/:num/
 
 defaults:
