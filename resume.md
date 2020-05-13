@@ -15,8 +15,6 @@ yueyuegigi21@gmail.com
 
 求职Ruby开发工程师（可转岗团队管理和产品经理）
 
-薪资要求20-25k
-
 * * *
 
 ## [](#header-2)自我介绍
