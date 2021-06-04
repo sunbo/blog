@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 简历
+title: 项目经历
 ---
 
-# [](#header-1)求职简历
+# [](#header-1)简历
 
 [PDF版本]({{ site.url }}/assets/sunbo-resume.pdf)
 
