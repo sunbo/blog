@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 项目经历
+title: 项目
 ---
 
 # [](#header-1)简历
@@ -96,7 +96,7 @@ yueyuegigi21@gmail.com
 
 * * *
 
-### [](#header-3)5、千帆渡（2013-7/2018-7）
+### [](#header-3)5、千帆渡（2013-7/2019-12）
 是一个针对留学生，提供专业、全面、有效的资讯信息和留学服务平台，要通过大数据的挖掘分析给学生最准确的帮助预测，让他找到最适合自己的学校和专业，以及在准备留学的过程中最安全可靠的服务。
 
 在职期间担任技术经理，负责整站的技术架构和产品（ruby2 + rails4 + passenger + nginx + mysql + memcached + mongodb + redis，部署在5台ubuntu服务器上），带领10人团队完成web、h5、小程序、微信公众号、ios和安卓的功能开发和项目管理。
@@ -104,3 +104,12 @@ yueyuegigi21@gmail.com
 并在后期参与推广运营，网站上线运营3年累计注册用户30万+、外国院校库9000+、成都50+大学资源、APP下载100万+。
 
 [网址](http://www.qianfandu.com) [图集](https://sunbo.github.io/qianfandu-photos)
+
+* * *
+
+### [](#header-3)6、探码科技（2020-5/2021-5）
+Baklib是一个企业帮助中心全场景解决方案SaaS系统，我担任整个系统负责人职位，负责技术、产品和运营工作。加入前Baklib已经上线第一版，主要针对个人的建站CMS，当时的问题是盈利能力不足。
+
+加入公司后调整产品架构，从toC转型toB，并完成V2版本的产品设计及营运框架搭建，相当于从0到1冷启动一个新项目，最终一年时间完成企业用户注册量4w+，付费用户1000+，盈利100w+。
+
+[网址](http://www.baklib.com) [图集](https://sunbo.github.io/baklib-photos)
